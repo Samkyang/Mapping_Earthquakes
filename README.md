@@ -14,5 +14,7 @@ In the maps I created three layer groups by defining the names to layer groups s
 ### Using leaflet for map info and visuals
 I used leaflet to create a legend at the bottom and to color code the magnitudes of the earthquakes based on its data.
 
+https://leafletjs.com/examples/choropleth/
+
 ## Conclusion
 This module was a difficult one and took a lot of time to understand the concepts. After seeing the examples in the reading and knowing where to pull the functions or what to reference it became a lot easier.
